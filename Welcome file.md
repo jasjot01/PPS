@@ -8,10 +8,10 @@
   
   
      
-    Name-Jaskaran singh 
+    Name-Manpreet kaur
     Branch-InformationTechnology
     Section - A2 
-    Roll Number - 1921048
+    Roll Number - 1921062
     
     # My C programes 
 
@@ -726,6 +726,6 @@ eyJoaXN0b3J5IjpbLTE1MzA1MDQxMjksMTk4NTg2OTYzMSwxOT
 UwNjM2OTVdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkyNTI4MjAsLTEzMzE1MTcyMjUsLT
-Q4OTM4NjcyM119
+eyJoaXN0b3J5IjpbMTY1MzcwMTM5NSwtMTMzMTUxNzIyNSwtND
+g5Mzg2NzIzXX0=
 -->
