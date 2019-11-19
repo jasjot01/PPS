@@ -1,12 +1,19 @@
-# *PPS Assignment*
-## ***Submitted By :***
-##### ***Name : Jasjot Singh Bagga***           
-##### ***Roll No. : 1921047***
-##### ***Branch : Information Tecnology(I.T)***
-##### ***Section  : I.T. A2***
+ 
+<center><img src="https://i.imgur.com/EZtECRw.png"></center>
 
+---
 
-# My C programes 
+<h3><b>Guru Nanak Dev Engineering College
+    ESC-18104/18105 Programming for Problem Solving</b>
+  
+  
+     
+    Name-Jaskaran singh 
+    Branch-InformationTechnology
+    Section - A2 
+    Roll Number - 1921048
+    
+    # My C programes 
 
 ## 1:To print hello world
 
@@ -270,7 +277,7 @@ The area of rectangle is:12
 The volume is :48
 ```
  
- ## 11:To represent a table of user input 
+ ##  11 .To represent a table of user input 
  
  ```
   // To represent a table of user input  number
@@ -713,6 +720,12 @@ ODI1NiwzOTMzOTkyMzgsNzc0OTQ3NzEzLC0xOTM0OTcwMDY2LC
 0xNTMzMjE1ODU2LDQwNzQ1NzQyMiwtMjMyMDc4MTA4LDEzMTEw
 NDM5MzddfQ==
 -->
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE1MTcyMjUsLTQ4OTM4NjcyM119
+eyJoaXN0b3J5IjpbLTE1MzA1MDQxMjksMTk4NTg2OTYzMSwxOT
+UwNjM2OTVdfQ==
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MzkyNTI4MjAsLTEzMzE1MTcyMjUsLT
+Q4OTM4NjcyM119
 -->
